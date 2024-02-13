@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Nicolás Camañes</title>
+    <link>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/en/tags/scene/</link>
+    <description>Recent content in scene on Nicolás Camañes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 10 Apr 2023 10:58:08 -0400</lastBuildDate>
+    <atom:link href="https://nicolascamanesantolin.github.io/Nicolas_Portfolio/en/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 3: Project Estimator and OpeanAI API Investigation</title>
+      <link>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/en/post/project-3/</link>
+      <pubDate>Mon, 10 Apr 2023 10:58:08 -0400</pubDate>
+      <guid>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/en/post/project-3/</guid>
+      <description>This project was carried out during my internship at the company Mas Ingenieros, while I was studying Computational Mathematics at the Jaime I University. The main objectives of this internship were the completion of two projects. The first involved researching and documenting the OpenAI API, and the second focused on creating a project estimator for internal use within the company.&#xA;The investigation and documentation of the OpenAI API began by thoroughly reading all available documentation on the OpenAI website regarding the functionality of their API.</description>
+    </item>
+    <item>
+      <title>Project 2: MemWrist</title>
+      <link>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/en/post/project-2/</link>
+      <pubDate>Mon, 19 Dec 2022 10:58:08 -0400</pubDate>
+      <guid>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/en/post/project-2/</guid>
+      <description>This project was carried out as part of the Entrepreneurship course during my study period in the Computational Mathematics degree at Jaime I University. The main objective was to collaboratively develop a business plan with the rest of the team, centered around the idea of a product. Throughout the project, essential stages were undertaken, including product development, market analysis, competitor analysis, and the formulation of the business and financing model.</description>
+    </item>
+    <item>
+      <title>Project 1: Instagram Scraper</title>
+      <link>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/en/post/project-1/</link>
+      <pubDate>Thu, 12 May 2022 10:58:08 -0400</pubDate>
+      <guid>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/en/post/project-1/</guid>
+      <description>This project was carried out as part of the Computer Security course during my Computational Mathematics degree at the Jaime I University. The main objective of the project was to create an information extractor capable of gathering data from different profiles, as well as downloading posts.&#xA;The project methodology involved the development of a Python program. By using the Selenium Webdriver, Time, Os, Wget, and Warnings libraries, various functions were implemented to work in synergy.</description>
+    </item>
+  </channel>
+</rss>

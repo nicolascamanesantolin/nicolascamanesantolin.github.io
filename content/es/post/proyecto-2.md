@@ -1,0 +1,11 @@
+---
+date: 2022-12-19T10:58:08-04:00
+featured_image: "/images/memwrist.jpg"
+title: "Proyecto 2: MemWrist"
+---
+
+Este proyecto se llevó a cabo como parte de la asignatura de Iniciativa Empresarial durante mi período de estudio en el Grado de Matemática Computacional en la Universidad Jaime I. El objetivo principal a llevar a cabo fue, juntp con el resto de compañeros del equipo, desarrollar un plan de negocio entorno a la idea de un producto. En el transcurso del proyecto se llevaron a cabo etapas imprescindibles como fueron: desarrollo de un producto, análisis de mercado, análisis de los competidores y desarrollo del modelo de negocio y financiación.
+
+Resumidamente, el producto ideado en el proyecto tiene como finalidad mejorar la calidad de vida de las personas que padecen Alzheimer así como la de sus cuidadores. Además, proporcionar información para progresar en el desarrollo de medicamentos orientados a este tipo de enfermedades. Dicho producto consitía en una pulsera de actividad, a través del cual se podrá obtener información del estado del usuario (frecuencia cardíaca, oxígeno, estrés, horas de sueño y tareas diarias como si ha comido, tomado medicación o movimientos dentro del propio domicilio). Gracias al dispositivo las familias están en contacto y reciben información básica y esencial sobre el estado del usuario. Lo que es más importante, los datos obtenidos se analizan para obtener información objetiva con la que se realiza un informe que ayuda a los especialistas a construir su diagnóstico. Además de todo esto, se busca solucionar el problema del desgaste físico y psicológico de las familias proporcionando un kit de ayuda que realice recomendaciones de profesionales en el sector que pueden paliar los efectos del síndrome del cuidador. Para acabar, todos los datos recogidos son analizados y subidos a la nube compartida con empresas farmacéuticas que recogerán los datos para realizar sus propias investigaciones. Es por esto que la solución va dirigida a ayudar tanto a los familiares como a los médicos, sin descuidar en ningún momento a los usuarios que son las personas mayores que llevarán el dispositivo.
+
+[Enlace al repositorio de GitHub](https://github.com/nicolascamanesantolin/MemWrist.git)

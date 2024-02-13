@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Proyectos on Nicolás Camañes</title>
+    <link>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/post/</link>
+    <description>Recent content in Proyectos on Nicolás Camañes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 26 Nov 2023 10:58:08 -0400</lastBuildDate>
+    <atom:link href="https://nicolascamanesantolin.github.io/Nicolas_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Proyecto 6: Análisis de Señales</title>
+      <link>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/post/proyecto-6/</link>
+      <pubDate>Sun, 26 Nov 2023 10:58:08 -0400</pubDate>
+      <guid>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/post/proyecto-6/</guid>
+      <description>Se trata del proyecto llevado a cabo para la asignatura Análisis de Señales en el máster de Ciencia de Datos en la Universidad de Valencia.&#xA;Mediante la realización de este proyecto se pretendio la realización de una investigación acerca de las características que se pueden extraer de una señales de audio musical y comparar las posibles diferencias entre distintos géneros musicales. La extracción de las diferentes características se realizó en Python haciendo uso de la librería Librosa.</description>
+    </item>
+    <item>
+      <title>Proyecto 5: Análisis exploratorio de datos</title>
+      <link>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/post/proyecto-5/</link>
+      <pubDate>Tue, 14 Nov 2023 10:58:08 -0400</pubDate>
+      <guid>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/post/proyecto-5/</guid>
+      <description>Se trata del proyecto llevado a cabo para la asignatura Análisis Exploratorio de Datos en el máster de Ciencia de Datos en la Universidad de Valencia.&#xA;En este proyecto de Análisis Exploratorio de Datos se explora un conjunto de datos real con el fin de obtener valiosas perspectivas y conclusiones. El conjunto de datos que se utiliza para el análisis pertenece al Instituto Nacional de Estadística (INE). En concreto, pertenece a una encuesta realizada a la población en el año 2021 que tiene como propósito el proporcionar información detallada sobre personas, viviendas y edificios que no puede obtenerse a través de registros administrativos.</description>
+    </item>
+    <item>
+      <title>Proyecto 4: Análisis estadístico de las cinco grandes ligas de fútbol europeas</title>
+      <link>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/post/proyecto-4/</link>
+      <pubDate>Fri, 23 Jun 2023 10:58:08 -0400</pubDate>
+      <guid>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/post/proyecto-4/</guid>
+      <description>Se trata del proyecto llevado a cabo para mi trabajo de final de grado (TFG) para la titulación de Matemáticas Computacionales en la Universidad Jaime I.&#xA;El proyecto se basa en el empleo de diferentes técnicas de minería de datos. El análisis de las componentes principales, para reducir la dimensión de un conjunto de datos. Los contrastes de hipótesis para evaluar los datos. La regresión logística, para predecir la ocurrencia de un evento binario.</description>
+    </item>
+    <item>
+      <title>Proyecto 3: Investigación de la API de OpenAI y estimador de proyectos</title>
+      <link>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/post/proyecto-3/</link>
+      <pubDate>Mon, 10 Apr 2023 10:58:08 -0400</pubDate>
+      <guid>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/post/proyecto-3/</guid>
+      <description>Este proyecto fue llevado a cabo durante mi estancia en prácticas en la empresa Mas Ingenieros, durante mi período de estudio en el Grado de Matemática Computacional en la Universidad Jaime I. En dicha estancia se tuvo como objetivo la realización de dos proyectos. La investigación y documentación de la API de OpenAI y la creación de un estimador de proyectos para el uso interno de la empresa.&#xA;La investigación y documentación de la API de OpenAI consistió, primeramente, en leer detalladamente todo la documentación disponible en la web de OpenAI acerca del funcionamiento de su API.</description>
+    </item>
+    <item>
+      <title>Proyecto 2: MemWrist</title>
+      <link>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/post/proyecto-2/</link>
+      <pubDate>Mon, 19 Dec 2022 10:58:08 -0400</pubDate>
+      <guid>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/post/proyecto-2/</guid>
+      <description>Este proyecto se llevó a cabo como parte de la asignatura de Iniciativa Empresarial durante mi período de estudio en el Grado de Matemática Computacional en la Universidad Jaime I. El objetivo principal a llevar a cabo fue, juntp con el resto de compañeros del equipo, desarrollar un plan de negocio entorno a la idea de un producto. En el transcurso del proyecto se llevaron a cabo etapas imprescindibles como fueron: desarrollo de un producto, análisis de mercado, análisis de los competidores y desarrollo del modelo de negocio y financiación.</description>
+    </item>
+    <item>
+      <title>Proyecto 1: Instagram Scraper</title>
+      <link>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/post/proyecto-1/</link>
+      <pubDate>Thu, 12 May 2022 10:58:08 -0400</pubDate>
+      <guid>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/post/proyecto-1/</guid>
+      <description>Este proyecto se llevó a cabo como parte de la asignatura de Seguridad Informática durante mi periodo de estudio en el Grado de Matemática Computacional en la Universidad Jaime I. El objetivo principal de esta iniciativa fue desarrollar un extractor de información que permitiera recopilar datos de diversos perfiles, así como la descarga de publicaciones.&#xA;La metodología empleada en el proyecto se basó en la creación de un programa en Python.</description>
+    </item>
+  </channel>
+</rss>
