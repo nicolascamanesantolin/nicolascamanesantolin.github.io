@@ -1,0 +1,25 @@
+{{ define "header" }}
+  {{ partial "page-header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+  {{ $featured_image := partial "func/GetFeaturedImage.html" . }}
+  <article class="article-wrap">
+    <p class="article-meta">
+      {{ .CurrentSection.Title }}
+      {{ if not .Date.IsZero }}
+        · <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date | time.Format (default "January 2, 2006" .Site.Params.date_format) }}</time>
+      {{ end }}
+    </p>
+    <h1>{{ .Title }}</h1>
+    {{ if and $featured_image (not .Params.hide_featured_image) }}
+      <figure class="article-cover">
+        <img src="{{ $featured_image }}" alt="{{ .Title }}">
+      </figure>
+    {{ end }}
+    <div class="prose nested-copy-line-height nested-links">
+      {{ .Content }}
+      {{ partial "tags.html" . }}
+    </div>
+  </article>
+{{ end }}

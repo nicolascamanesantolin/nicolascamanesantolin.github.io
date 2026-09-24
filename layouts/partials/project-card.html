@@ -1,0 +1,17 @@
+{{ $featured_image := partial "func/GetFeaturedImage.html" . }}
+<article class="project-card">
+  <a class="project-card-media" href="{{ .RelPermalink }}" aria-hidden="true" tabindex="-1">
+    {{ if $featured_image }}
+      <img src="{{ $featured_image }}" alt="">
+    {{ end }}
+  </a>
+  <div class="project-card-body">
+    <h2>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </h2>
+    <div class="project-card-excerpt">
+      {{ .Summary }}
+    </div>
+    <a class="project-card-cta" href="{{ .RelPermalink }}">{{ $.Param "read_more_copy" | default (i18n "readMore") }} →</a>
+  </div>
+</article>

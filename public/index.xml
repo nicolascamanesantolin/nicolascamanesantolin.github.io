@@ -1,68 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Portafolio de Científico de Datos on Nicolás Camañes</title>
-    <link>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/</link>
-    <description>Recent content in Portafolio de Científico de Datos on Nicolás Camañes</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>es</language>
-    <lastBuildDate>Sun, 26 Nov 2023 10:58:08 -0400</lastBuildDate>
-    <atom:link href="https://nicolascamanesantolin.github.io/Nicolas_Portfolio/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Proyecto 6: Análisis de Señales</title>
-      <link>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/post/proyecto-6/</link>
-      <pubDate>Sun, 26 Nov 2023 10:58:08 -0400</pubDate>
-      <guid>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/post/proyecto-6/</guid>
-      <description>Se trata del proyecto llevado a cabo para la asignatura Análisis de Señales en el máster de Ciencia de Datos en la Universidad de Valencia.&#xA;Mediante la realización de este proyecto se pretendio la realización de una investigación acerca de las características que se pueden extraer de una señales de audio musical y comparar las posibles diferencias entre distintos géneros musicales. La extracción de las diferentes características se realizó en Python haciendo uso de la librería Librosa.</description>
-    </item>
-    <item>
-      <title>Proyecto 5: Análisis exploratorio de datos</title>
-      <link>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/post/proyecto-5/</link>
-      <pubDate>Tue, 14 Nov 2023 10:58:08 -0400</pubDate>
-      <guid>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/post/proyecto-5/</guid>
-      <description>Se trata del proyecto llevado a cabo para la asignatura Análisis Exploratorio de Datos en el máster de Ciencia de Datos en la Universidad de Valencia.&#xA;En este proyecto de Análisis Exploratorio de Datos se explora un conjunto de datos real con el fin de obtener valiosas perspectivas y conclusiones. El conjunto de datos que se utiliza para el análisis pertenece al Instituto Nacional de Estadística (INE). En concreto, pertenece a una encuesta realizada a la población en el año 2021 que tiene como propósito el proporcionar información detallada sobre personas, viviendas y edificios que no puede obtenerse a través de registros administrativos.</description>
-    </item>
-    <item>
-      <title>Proyecto 4: Análisis estadístico de las cinco grandes ligas de fútbol europeas</title>
-      <link>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/post/proyecto-4/</link>
-      <pubDate>Fri, 23 Jun 2023 10:58:08 -0400</pubDate>
-      <guid>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/post/proyecto-4/</guid>
-      <description>Se trata del proyecto llevado a cabo para mi trabajo de final de grado (TFG) para la titulación de Matemáticas Computacionales en la Universidad Jaime I.&#xA;El proyecto se basa en el empleo de diferentes técnicas de minería de datos. El análisis de las componentes principales, para reducir la dimensión de un conjunto de datos. Los contrastes de hipótesis para evaluar los datos. La regresión logística, para predecir la ocurrencia de un evento binario.</description>
-    </item>
-    <item>
-      <title>Proyecto 3: Investigación de la API de OpenAI y estimador de proyectos</title>
-      <link>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/post/proyecto-3/</link>
-      <pubDate>Mon, 10 Apr 2023 10:58:08 -0400</pubDate>
-      <guid>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/post/proyecto-3/</guid>
-      <description>Este proyecto fue llevado a cabo durante mi estancia en prácticas en la empresa Mas Ingenieros, durante mi período de estudio en el Grado de Matemática Computacional en la Universidad Jaime I. En dicha estancia se tuvo como objetivo la realización de dos proyectos. La investigación y documentación de la API de OpenAI y la creación de un estimador de proyectos para el uso interno de la empresa.&#xA;La investigación y documentación de la API de OpenAI consistió, primeramente, en leer detalladamente todo la documentación disponible en la web de OpenAI acerca del funcionamiento de su API.</description>
-    </item>
-    <item>
-      <title>Proyecto 2: MemWrist</title>
-      <link>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/post/proyecto-2/</link>
-      <pubDate>Mon, 19 Dec 2022 10:58:08 -0400</pubDate>
-      <guid>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/post/proyecto-2/</guid>
-      <description>Este proyecto se llevó a cabo como parte de la asignatura de Iniciativa Empresarial durante mi período de estudio en el Grado de Matemática Computacional en la Universidad Jaime I. El objetivo principal a llevar a cabo fue, juntp con el resto de compañeros del equipo, desarrollar un plan de negocio entorno a la idea de un producto. En el transcurso del proyecto se llevaron a cabo etapas imprescindibles como fueron: desarrollo de un producto, análisis de mercado, análisis de los competidores y desarrollo del modelo de negocio y financiación.</description>
-    </item>
-    <item>
-      <title>Proyecto 1: Instagram Scraper</title>
-      <link>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/post/proyecto-1/</link>
-      <pubDate>Thu, 12 May 2022 10:58:08 -0400</pubDate>
-      <guid>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/post/proyecto-1/</guid>
-      <description>Este proyecto se llevó a cabo como parte de la asignatura de Seguridad Informática durante mi periodo de estudio en el Grado de Matemática Computacional en la Universidad Jaime I. El objetivo principal de esta iniciativa fue desarrollar un extractor de información que permitiera recopilar datos de diversos perfiles, así como la descarga de publicaciones.&#xA;La metodología empleada en el proyecto se basó en la creación de un programa en Python.</description>
-    </item>
-    <item>
-      <title>Contacto</title>
-      <link>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/contact/</guid>
-      <description>Puedes contactar conmigo a través del perfil de LinkedIn o rellenando el siguiente formulario.&#xA;Tu nombre Dirección de correo electrónico Se requiere una dirección de correo electrónico. Mensaje </description>
-    </item>
-    <item>
-      <title>Sobre mí</title>
-      <link>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/about/</guid>
-      <description>Desde que concluí mis estudios básicos en el instituto, he encontrado mi verdadera pasión en las matemáticas. Fue este descubrimiento lo que me llevó a optar por cursar el grado en Matemática Computacional en la Universidad Jaime I. A lo largo de mi permanencia en la universidad, exploré diversas ramas y aplicaciones de las matemáticas a través de la participación en diversos proyectos y trabajos.&#xA;No obstante, no fue sino hasta la etapa en la que compaginé mi experiencia en prácticas en la empresa Mas Ingenieros con la elaboración de mi proyecto de fin de grado, cuando tuve el revelador encuentro con mi verdadera motivación profesional: la Ciencia de Datos.</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Data Scientist Portfolio on Nicolás Camañes</title>
+		<link>http://localhost:62344/</link>
+		<description>Recent content in Data Scientist Portfolio on Nicolás Camañes</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 01 Sep 2024 10:00:00 +0200</lastBuildDate>
+		
+			<atom:link href="http://localhost:62344/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Intelligent RAG search system for MBA documentation</title>
+				<link>http://localhost:62344/post/tfm-rag/</link>
+				<pubDate>Sun, 01 Sep 2024 10:00:00 +0200</pubDate>
+				<guid>http://localhost:62344/post/tfm-rag/</guid>
+				<description>Master&amp;rsquo;s thesis: a RAG system for finding and synthesising knowledge across business-management documents.</description>
+			</item>
+			<item>
+				<title>Characterising music genres from audio signals</title>
+				<link>http://localhost:62344/post/project-6/</link>
+				<pubDate>Sun, 26 Nov 2023 10:58:08 -0400</pubDate>
+				<guid>http://localhost:62344/post/project-6/</guid>
+				<description>Audio feature extraction and unsupervised analysis to compare music genres.</description>
+			</item>
+			<item>
+				<title>Exploratory analysis of sociodemographic data</title>
+				<link>http://localhost:62344/post/project-5/</link>
+				<pubDate>Tue, 14 Nov 2023 10:58:08 -0400</pubDate>
+				<guid>http://localhost:62344/post/project-5/</guid>
+				<description>A reproducible exploration of National Statistics Institute data to identify data-quality issues, patterns and population segments.</description>
+			</item>
+			<item>
+				<title>Statistical analysis of performance in major European football leagues</title>
+				<link>http://localhost:62344/post/project-4/</link>
+				<pubDate>Fri, 23 Jun 2023 10:58:08 -0400</pubDate>
+				<guid>http://localhost:62344/post/project-4/</guid>
+				<description>Undergraduate thesis combining inference, dimensionality reduction and predictive models on football data.</description>
+			</item>
+			<item>
+				<title>Generative AI evaluation and project estimation</title>
+				<link>http://localhost:62344/post/project-3/</link>
+				<pubDate>Mon, 10 Apr 2023 10:58:08 -0400</pubDate>
+				<guid>http://localhost:62344/post/project-3/</guid>
+				<description>Technical research into the OpenAI API and a proposed approach to estimate project effort, cost and resources.</description>
+			</item>
+			<item>
+				<title>MemWrist: a data-driven care product concept</title>
+				<link>http://localhost:62344/post/project-2/</link>
+				<pubDate>Mon, 19 Dec 2022 10:58:08 -0400</pubDate>
+				<guid>http://localhost:62344/post/project-2/</guid>
+				<description>A data-driven product concept designed to support people with Alzheimer&amp;rsquo;s, their families and care professionals.</description>
+			</item>
+			<item>
+				<title>Automating public Instagram data collection</title>
+				<link>http://localhost:62344/post/project-1/</link>
+				<pubDate>Thu, 12 May 2022 10:58:08 -0400</pubDate>
+				<guid>http://localhost:62344/post/project-1/</guid>
+				<description>A Python tool that structures the collection of public profile and post information.</description>
+			</item>
+			<item>
+				<title>About</title>
+				<link>http://localhost:62344/about/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:62344/about/</guid>
+				<description>&lt;figure&gt;&lt;img src=&#34;http://localhost:62344/images/Foto_Nicolas.jpg&#34; width=&#34;300px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;My path began in mathematics. I studied Computational Mathematics at Universitat Jaume I, where I learned to approach complex problems through analytical thinking and programming. During that time I explored applications of data analysis, automation and modelling.&lt;/p&gt;&#xA;&lt;p&gt;An internship at Mas Ingenieros and my undergraduate thesis confirmed my interest in applying this approach to real-world problems. I then completed the Master&amp;rsquo;s Degree in Data Science at Universitat de València, strengthening my knowledge of statistics, machine learning, signal processing and data systems.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Contact</title>
+				<link>http://localhost:62344/contact/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:62344/contact/</guid>
+				<description>&lt;p&gt;You can contact me through my LinkedIn profile or by filling out the following form.&lt;/p&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;form class=&#34;black-80 sans-serif&#34; accept-charset=&#34;UTF-8&#34; action=&#34;https://formspree.io/f/xnqepavb&#34; method=&#34;POST&#34; role=&#34;form&#34;&gt;&#xD;&#xA;&#xD;&#xA;    &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34;  for=&#34;name&#34;&gt;Your Name&lt;/label&gt;&#xD;&#xA;    &lt;input type=&#34;text&#34; id=&#34;name&#34; name=&#34;name&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn&#34;  required placeholder=&#34; &#34;  aria-labelledby=&#34;name&#34;/&gt;&#xD;&#xA;&#xD;&#xA;    &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34; for=&#34;email&#34;&gt;Email Address&lt;/label&gt;&#xD;&#xA;    &lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn&#34;  required placeholder=&#34; &#34;  aria-labelledby=&#34;email&#34;/&gt;&#xD;&#xA;    &lt;div class=&#34;requirements f6 gray glow i ph3 overflow-hidden&#34;&gt;&#xD;&#xA;      An email address is required.&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;    &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34; for=&#34;message&#34;&gt;Message&lt;/label&gt;&#xD;&#xA;    &lt;textarea id=&#34;message&#34; name=&#34;message&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn h4&#34; aria-labelledby=&#34;message&#34;&gt;&lt;/textarea&gt;&#xD;&#xA;&#xD;&#xA;    &lt;input class=&#34;db w-100 mv2 white pa3 bn hover-shadow hover-bg-black bg-animate bg-black&#34; type=&#34;submit&#34; value=&#34;Send&#34; /&gt;&#xD;&#xA;&#xD;&#xA;&lt;/form&gt;</description>
+			</item>
+			<item>
+				<title>Experience</title>
+				<link>http://localhost:62344/experience/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:62344/experience/</guid>
+				<description>&lt;p&gt;My professional experience focuses on developing and deploying data, machine-learning and artificial-intelligence solutions for Smart City, water-management and R&amp;amp;D projects. I work end to end in direct collaboration with clients and multidisciplinary teams.&lt;/p&gt;&#xA;&lt;section class=&#34;experience-timeline&#34; aria-label=&#34;Professional experience&#34;&gt;&#xA;  &lt;article class=&#34;experience-item&#34;&gt;&#xA;    &lt;div class=&#34;experience-period&#34;&gt;October 2024 — Present&lt;/div&gt;&#xA;    &lt;div class=&#34;experience-content&#34;&gt;&#xA;      &lt;div class=&#34;experience-company&#34;&gt;&#xA;        &lt;img class=&#34;company-logo company-logo--wide&#34; src=&#34;http://localhost:62344/images/companies/nealis-tech.svg&#34; alt=&#34;Nealis Tech logo&#34;&gt;&#xA;        &lt;div&gt;&#xA;          &lt;h2&gt;Data Scientist · Nealis Tech&lt;/h2&gt;&#xA;          &lt;p class=&#34;experience-summary&#34;&gt;Designing, developing and deploying data solutions for R&amp;D, Smart City, water-management and environmental projects. I work end to end, connecting operational needs with analysis, modelling and production deployment.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,0 +1,32 @@
+{{ define "main" }}
+  {{ with .Content }}
+    <article class="home-intro prose">
+      {{ . }}
+    </article>
+  {{ end }}
+
+  {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
+  {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
+  {{ $section_count := len $section }}
+  {{ if ge $section_count 1 }}
+    {{ $n_posts := $.Param "recent_posts_number" | default 6 }}
+    {{ $section_name := index $mainSections 0 }}
+    <section class="projects-section">
+      {{ with .Site.GetPage "section" $section_name }}
+        <h2 class="section-heading">{{ $.Param "recent_copy" | default (i18n "recentTitle" .) }}</h2>
+      {{ end }}
+      <div class="projects-grid">
+        {{ range first $n_posts $section }}
+          {{ partial "project-card.html" . }}
+        {{ end }}
+      </div>
+      {{ if gt $section_count $n_posts }}
+        {{ with .Site.GetPage "section" $section_name }}
+          <p style="margin-top:1.5rem">
+            <a class="project-card-cta" href="{{ .RelPermalink }}">{{ i18n "allTitle" . }} →</a>
+          </p>
+        {{ end }}
+      {{ end }}
+    </section>
+  {{ end }}
+{{ end }}

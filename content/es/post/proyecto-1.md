@@ -1,11 +1,14 @@
 ---
 date: 2022-05-12T10:58:08-04:00
 featured_image: "/images/Instagram_Scraper.jpg"
-title: "Proyecto 1: Instagram Scraper"
+title: "Automatización de la recopilación de datos públicos en Instagram"
+summary: "Herramienta en Python para estructurar la captura de información pública de perfiles y publicaciones."
 ---
 
-Este proyecto se llevó a cabo como parte de la asignatura de Seguridad Informática durante mi periodo de estudio en el Grado de Matemática Computacional en la Universidad Jaime I. El objetivo principal de esta iniciativa fue desarrollar un extractor de información que permitiera recopilar datos de diversos perfiles, así como la descarga de publicaciones.
+**Reto.** Facilitar la recopilación estructurada de información pública de perfiles y publicaciones para su posterior análisis, evitando una tarea manual repetitiva.
 
-La metodología empleada en el proyecto se basó en la creación de un programa en Python. Utilizando las librerías Selenium Webdriver, Time, Os, Wget y Warnings, se implementaron diversas funciones que se complementaban entre sí. Estas funciones, a partir del usuario de Instagram proporcionado al programa, posibilitaron la recopilación de información del perfil, la obtención de las direcciones de cada publicación y, finalmente, la descarga de todas las publicaciones de la cuenta.
+**Solución.** Desarrollé una herramienta en Python que, a partir de un usuario, automatiza la obtención de datos de perfil, localiza las URLs de las publicaciones y gestiona su descarga. El flujo se implementó con Selenium WebDriver y utilidades de gestión de archivos.
+
+**Valor aportado.** El proyecto demuestra cómo convertir una fuente web no estructurada en un proceso de captura reproducible, una primera etapa clave para cualquier análisis posterior. Fue desarrollado en el contexto de la asignatura de Seguridad Informática del Grado en Matemática Computacional.
 
 [Enlace al repositorio de GitHub](https://github.com/nicolascamanesantolin/Instagram-Scraper.git)

@@ -1,7 +1,8 @@
 ---
 date: 2023-11-26T10:58:08-04:00
 featured_image: "/images/AS.jpg"
-title: "Project 6: Signal Analysis"
+title: "Characterising music genres from audio signals"
+summary: "Audio feature extraction and unsupervised analysis to compare music genres."
 ---
 
 This is the project carried out for the Signal Analysis subject in the Master's in Data Science at the University of Valencia.

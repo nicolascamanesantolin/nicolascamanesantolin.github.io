@@ -3,7 +3,8 @@ date: 2023-04-10T10:58:08-04:00
 description: "Project Estimator and OpeanAI API Investigation"
 featured_image: "/images/openai.jpg"
 tags: ["scene"]
-title: "Project 3: Project Estimator and OpeanAI API Investigation"
+title: "Generative AI evaluation and project estimation"
+summary: "Technical research into the OpenAI API and a proposed approach to estimate project effort, cost and resources."
 ---
 
 This project was carried out during my internship at the company Mas Ingenieros, while I was studying Computational Mathematics at the Jaime I University. The main objectives of this internship were the completion of two projects. The first involved researching and documenting the OpenAI API, and the second focused on creating a project estimator for internal use within the company.

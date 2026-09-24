@@ -1,22 +1,22 @@
-title = "Nicolas Camanes"
-baseURL = "https://github.com/nicolascamanesantolin/nicolascamanesantolin.github.io.git/"
+title = "Nicolás Camañes"
+baseURL = "https://nicolascamanesantolin.github.io/"
 languageCode = "en-us"
 theme = ["ananke"]
-# resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = ""
+paginate = 12
 enableRobotsTXT = true
 canonifyURLs = true
+
+[pagination]
+  pagerSize = 12
 
 [languages]
   [languages.en]
     title = "Nicolás Camañes"
-    weight = 2
+    weight = 1
     contentDir = "content/en"
-    # languageDirection = 'rtl' for Right-To-Left languages
   [languages.es]
     title = "Nicolás Camañes"
     weight = 2
@@ -28,14 +28,15 @@ canonifyURLs = true
   filename = "sitemap.xml"
 
 [params]
-  text_color = ""
-  author = ""
-  favicon = ""
-  site_logo = ""
-  description = "The last theme you'll ever need. Maybe."
-  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
-  recent_posts_number = 3
-  linkedIn = "https://es.linkedin.com/in/nicolás-camañes-antolín-01278024a"
+  author = "Nicolás Camañes"
+  favicon = "/favicon.svg"
+  description = "Data Scientist Portfolio"
+  body_classes = "portfolio"
+  background_color_class = ""
+  recent_posts_number = 6
+  custom_css = ["custom.css"]
   github = "https://github.com/nicolascamanesantolin"
+  linkedin = "https://www.linkedin.com/in/nicol%C3%A1s-cama%C3%B1es-antol%C3%ADn-01278024a"
 
+[markup.goldmark.renderer]
+  unsafe = true

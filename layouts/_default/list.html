@@ -1,0 +1,21 @@
+{{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
+
+{{ define "main" }}
+  <article class="pa0">
+    {{ with .Content }}
+      <section class="section-intro prose">
+        {{ . }}
+      </section>
+    {{ end }}
+    <section class="projects-section">
+      <div class="projects-grid">
+        {{ range .Paginator.Pages }}
+          {{ .Render "summary" }}
+        {{ end }}
+      </div>
+    </section>
+    <div class="pagination">
+      {{- template "_internal/pagination.html" . -}}
+    </div>
+  </article>
+{{ end }}

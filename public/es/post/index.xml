@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Proyectos y casos de estudio on Nicolás Camañes</title>
+		<link>http://localhost:62344/es/post/</link>
+		<description>Recent content in Proyectos y casos de estudio on Nicolás Camañes</description>
+		<generator>Hugo</generator>
+		<language>es</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 01 Sep 2024 10:00:00 +0200</lastBuildDate>
+		
+			<atom:link href="http://localhost:62344/es/post/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Sistema de búsqueda inteligente con RAG para documentación MBA</title>
+				<link>http://localhost:62344/es/post/tfm-rag/</link>
+				<pubDate>Sun, 01 Sep 2024 10:00:00 +0200</pubDate>
+				<guid>http://localhost:62344/es/post/tfm-rag/</guid>
+				<description>Trabajo de Fin de Máster: un sistema RAG para localizar y sintetizar conocimiento en documentos de gestión empresarial.</description>
+			</item>
+			<item>
+				<title>Caracterización de géneros musicales a partir de señales de audio</title>
+				<link>http://localhost:62344/es/post/proyecto-6/</link>
+				<pubDate>Sun, 26 Nov 2023 10:58:08 -0400</pubDate>
+				<guid>http://localhost:62344/es/post/proyecto-6/</guid>
+				<description>Extracción de características de audio y análisis no supervisado para comparar géneros musicales.</description>
+			</item>
+			<item>
+				<title>Análisis exploratorio de datos sociodemográficos</title>
+				<link>http://localhost:62344/es/post/proyecto-5/</link>
+				<pubDate>Tue, 14 Nov 2023 10:58:08 -0400</pubDate>
+				<guid>http://localhost:62344/es/post/proyecto-5/</guid>
+				<description>Exploración reproducible de datos del INE para identificar patrones, calidad del dato y segmentos de población.</description>
+			</item>
+			<item>
+				<title>Análisis estadístico del rendimiento en las grandes ligas europeas</title>
+				<link>http://localhost:62344/es/post/proyecto-4/</link>
+				<pubDate>Fri, 23 Jun 2023 10:58:08 -0400</pubDate>
+				<guid>http://localhost:62344/es/post/proyecto-4/</guid>
+				<description>Trabajo de fin de grado que combina inferencia, reducción de dimensionalidad y modelos predictivos sobre datos de fútbol.</description>
+			</item>
+			<item>
+				<title>Evaluación de IA generativa y estimación de proyectos</title>
+				<link>http://localhost:62344/es/post/proyecto-3/</link>
+				<pubDate>Mon, 10 Apr 2023 10:58:08 -0400</pubDate>
+				<guid>http://localhost:62344/es/post/proyecto-3/</guid>
+				<description>Investigación técnica de la API de OpenAI y diseño de un enfoque para estimar esfuerzo, coste y recursos.</description>
+			</item>
+			<item>
+				<title>MemWrist: propuesta de producto data-driven para el cuidado del Alzheimer</title>
+				<link>http://localhost:62344/es/post/proyecto-2/</link>
+				<pubDate>Mon, 19 Dec 2022 10:58:08 -0400</pubDate>
+				<guid>http://localhost:62344/es/post/proyecto-2/</guid>
+				<description>Diseño de una propuesta de producto basada en datos para apoyar a pacientes, familias y profesionales sanitarios.</description>
+			</item>
+			<item>
+				<title>Automatización de la recopilación de datos públicos en Instagram</title>
+				<link>http://localhost:62344/es/post/proyecto-1/</link>
+				<pubDate>Thu, 12 May 2022 10:58:08 -0400</pubDate>
+				<guid>http://localhost:62344/es/post/proyecto-1/</guid>
+				<description>Herramienta en Python para estructurar la captura de información pública de perfiles y publicaciones.</description>
+			</item>
+	</channel>
+</rss>

@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "Hi! My name is Nicolás Camañes. I'm a Data Science."
+description: "Data Scientist with a foundation in mathematics, analytics and machine learning."
 featured_image: '/images/about_me.jpg'
 menu:
   main:
@@ -8,6 +8,8 @@ menu:
 ---
 {{< figure src="/images/Foto_Nicolas.jpg" width="300px">}} 
 
-Since I completed my basic studies in high school, I have discovered my true passion for mathematics. It was this revelation that led me to choose the Computational Mathematics degree at the University Jaime I. Throughout my time at university, I explored various branches and applications of mathematics by engaging in different projects and assignments.
+My path began in mathematics. I studied Computational Mathematics at Universitat Jaume I, where I learned to approach complex problems through analytical thinking and programming. During that time I explored applications of data analysis, automation and modelling.
 
-However, it wasn't until the period in which I combined my internship experience at Mas Ingenieros with the completion of my undergraduate thesis that I had a transformative encounter with my true professional motivation: Data Science. It was at this juncture that I decided to enhance my knowledge and skills by pursuing a master's degree in Data Science at the University of Valencia. This step not only solidified my interest in the field but also provided me with a robust foundation to delve deeper into the fascinating world of data analytics and interpretation.
+An internship at Mas Ingenieros and my undergraduate thesis confirmed my interest in applying this approach to real-world problems. I then completed the Master's Degree in Data Science at Universitat de València, strengthening my knowledge of statistics, machine learning, signal processing and data systems.
+
+I now work as a Data Scientist. I am particularly interested in carrying an idea from initial exploration to a useful solution: framing the problem properly, ensuring data quality, evaluating with sound criteria and communicating actionable findings.

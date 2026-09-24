@@ -3,7 +3,8 @@ date: 2022-05-12T10:58:08-04:00
 description: "Instagram Scraper"
 featured_image: "/images/Instagram_Scraper.jpg"
 tags: ["scene"]
-title: "Project 1: Instagram Scraper"
+title: "Automating public Instagram data collection"
+summary: "A Python tool that structures the collection of public profile and post information."
 ---
 This project was carried out as part of the Computer Security course during my Computational Mathematics degree at the Jaime I University. The main objective of the project was to create an information extractor capable of gathering data from different profiles, as well as downloading posts.
 

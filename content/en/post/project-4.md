@@ -1,7 +1,8 @@
 ---
 date: 2023-06-23T10:58:08-04:00
 featured_image: "/images/futbol.jpg"
-title: "Project 4: Statistical analysis of the five major European football leagues"
+title: "Statistical analysis of performance in major European football leagues"
+summary: "Undergraduate thesis combining inference, dimensionality reduction and predictive models on football data."
 ---
 
 This is the project carried out for my final degree project for the Computational Mathematics degree at Jaime I University.

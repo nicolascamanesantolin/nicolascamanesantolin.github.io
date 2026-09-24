@@ -2,126 +2,220 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/en/</loc>
-    <lastmod>2023-11-26T10:58:08-04:00</lastmod>
+    <loc>http://localhost:62344/</loc>
+    <lastmod>2024-09-01T10:00:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:62344/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://nicolascamanesantolin.github.io/Nicolas_Portfolio/"
+                href="http://localhost:62344/es/"
+                />
+  </url><url>
+    <loc>http://localhost:62344/post/tfm-rag/</loc>
+    <lastmod>2024-09-01T10:00:00+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:62344/post/tfm-rag/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://nicolascamanesantolin.github.io/Nicolas_Portfolio/en/"
+                hreflang="es"
+                href="http://localhost:62344/es/post/tfm-rag/"
                 />
   </url><url>
-    <loc>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/en/post/project-6/</loc>
+    <loc>http://localhost:62344/tags/llm/</loc>
+    <lastmod>2024-09-01T10:00:00+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:62344/tags/llm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:62344/es/tags/llm/"
+                />
+  </url><url>
+    <loc>http://localhost:62344/tags/nlp/</loc>
+    <lastmod>2024-09-01T10:00:00+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:62344/tags/nlp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:62344/es/tags/nlp/"
+                />
+  </url><url>
+    <loc>http://localhost:62344/tags/python/</loc>
+    <lastmod>2024-09-01T10:00:00+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:62344/tags/python/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:62344/es/tags/python/"
+                />
+  </url><url>
+    <loc>http://localhost:62344/tags/rag/</loc>
+    <lastmod>2024-09-01T10:00:00+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:62344/tags/rag/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:62344/es/tags/rag/"
+                />
+  </url><url>
+    <loc>http://localhost:62344/tags/semantic-search/</loc>
+    <lastmod>2024-09-01T10:00:00+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:62344/tags/</loc>
+    <lastmod>2024-09-01T10:00:00+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:62344/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:62344/es/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:62344/post/project-6/</loc>
     <lastmod>2023-11-26T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/en/post/project-5/</loc>
+    <loc>http://localhost:62344/post/project-5/</loc>
     <lastmod>2023-11-14T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/en/post/project-4/</loc>
+    <loc>http://localhost:62344/post/project-4/</loc>
     <lastmod>2023-06-23T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/en/post/project-3/</loc>
+    <loc>http://localhost:62344/post/project-3/</loc>
     <lastmod>2023-04-10T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/en/tags/scene/</loc>
+    <loc>http://localhost:62344/tags/scene/</loc>
     <lastmod>2023-04-10T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/en/tags/</loc>
-    <lastmod>2023-04-10T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://nicolascamanesantolin.github.io/Nicolas_Portfolio/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nicolascamanesantolin.github.io/Nicolas_Portfolio/en/tags/"
-                />
-  </url><url>
-    <loc>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/en/post/project-2/</loc>
+    <loc>http://localhost:62344/post/project-2/</loc>
     <lastmod>2022-12-19T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/en/post/project-1/</loc>
+    <loc>http://localhost:62344/post/project-1/</loc>
     <lastmod>2022-05-12T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/en/post/</loc>
+    <loc>http://localhost:62344/post/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="https://nicolascamanesantolin.github.io/Nicolas_Portfolio/post/"
+                hreflang="en-us"
+                href="http://localhost:62344/post/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://nicolascamanesantolin.github.io/Nicolas_Portfolio/en/post/"
+                hreflang="es"
+                href="http://localhost:62344/es/post/"
                 />
   </url><url>
-    <loc>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/en/about/</loc>
+    <loc>http://localhost:62344/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="https://nicolascamanesantolin.github.io/Nicolas_Portfolio/about/"
+                hreflang="en-us"
+                href="http://localhost:62344/about/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://nicolascamanesantolin.github.io/Nicolas_Portfolio/en/about/"
+                hreflang="es"
+                href="http://localhost:62344/es/about/"
                 />
   </url><url>
-    <loc>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/en/categories/</loc>
+    <loc>http://localhost:62344/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="https://nicolascamanesantolin.github.io/Nicolas_Portfolio/categories/"
+                hreflang="en-us"
+                href="http://localhost:62344/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://nicolascamanesantolin.github.io/Nicolas_Portfolio/en/categories/"
+                hreflang="es"
+                href="http://localhost:62344/es/categories/"
                 />
   </url><url>
-    <loc>https://nicolascamanesantolin.github.io/Nicolas_Portfolio/en/contact/</loc>
+    <loc>http://localhost:62344/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="https://nicolascamanesantolin.github.io/Nicolas_Portfolio/contact/"
+                hreflang="en-us"
+                href="http://localhost:62344/contact/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://nicolascamanesantolin.github.io/Nicolas_Portfolio/en/contact/"
+                hreflang="es"
+                href="http://localhost:62344/es/contact/"
+                />
+  </url><url>
+    <loc>http://localhost:62344/experience/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:62344/experience/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:62344/es/experience/"
                 />
   </url>
 </urlset>

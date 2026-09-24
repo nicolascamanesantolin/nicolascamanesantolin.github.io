@@ -1,18 +1,15 @@
 ---
 date: 2023-11-14T10:58:08-04:00
 featured_image: "/images/EDA.jpg"
-title: "Proyecto 5: Análisis exploratorio de datos"
+title: "Análisis exploratorio de datos sociodemográficos"
+summary: "Exploración reproducible de datos del INE para identificar patrones, calidad del dato y segmentos de población."
 ---
 
-Se trata del proyecto llevado a cabo para la asignatura Análisis Exploratorio de Datos en el máster de Ciencia de Datos en la Universidad de Valencia.
+**Objetivo.** Obtener una visión fiable de un conjunto de microdatos del INE y transformar preguntas abiertas sobre población, viviendas y condiciones de vida en hipótesis analizables.
 
-En este proyecto de Análisis Exploratorio de Datos se explora un conjunto de datos real con el fin de obtener valiosas perspectivas y conclusiones. El conjunto de datos que se utiliza para el análisis pertenece al Instituto Nacional de Estadística (INE). En concreto, pertenece a una encuesta realizada a la población en el año 2021 que tiene como propósito el proporcionar información detallada sobre personas, viviendas y edificios que no puede obtenerse a través de registros administrativos. En este caso, se decidió hacer la exploración en su mayoría de la parte relacionada a cuestiones que se les hizo a adultos (personas de 16 años o más). Para agregar más variables de interés se escogieron algunas de otro conjunto de datos, también de esta encuesta, hecho a todos los integrantes de la vivienda y no solo a adultos.
+**Enfoque.** Integré variables de dos ficheros de la encuesta de 2021 y realicé controles de estructura, tipos, etiquetado y valores ausentes antes del análisis. El estudio incluyó análisis univariante y multivariante, detección de valores atípicos y clustering con variables numéricas y categóricas.
 
-Se comienza analizando las características generales del conjunto de datos. En segundo lugar, se realiza el análisis de los datos faltantes (missing values). Una vez hemos asegurado que nuestros datos estén en la estructura de data.frame, tengan los valores correctamente etiquetados y estén almacenados con el tipo correcto, así como de conocer el origen de los NA, podemos empezar a buscar posibles patrones en las instancias o entre las características. Trantando de responder una serie de preguntas planteadas al inicio del proyecto mediante un brainstorming. 
-
-En el proceso de responder las preguntas planteadas, se llevan a cabo diferentes tipos de análisis como son: Análisis univariante, Análisis de outlier univariente, Análisis multivariante, Búsqueda de outliers multivariante, Clustering con atributos numéricos, Clustering con variables categóricas y numéricas.
-
-Todos los procedimientos realizados se encuentran documentados en la memoria del proyecto.
+**Valor aportado.** El resultado es un proceso de exploración documentado y reproducible que prioriza la calidad del dato antes de extraer conclusiones y ayuda a descubrir patrones y segmentos relevantes. Proyecto académico del Máster en Ciencia de Datos de la Universitat de València.
 
 [Enlace al repositorio de GitHub](https://github.com/nicolascamanesantolin/ProyectoAED.git)
 

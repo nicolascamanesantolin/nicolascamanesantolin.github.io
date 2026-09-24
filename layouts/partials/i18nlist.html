@@ -1,0 +1,8 @@
+{{ if .IsTranslated }}
+<nav class="lang-switch" aria-label="Language">
+  <a href="{{ .RelPermalink }}" class="is-active" aria-current="page">{{ .Lang }}</a>
+  {{ range .Translations }}
+    <a href="{{ .RelPermalink }}">{{ .Lang }}</a>
+  {{ end }}
+</nav>
+{{ end }}

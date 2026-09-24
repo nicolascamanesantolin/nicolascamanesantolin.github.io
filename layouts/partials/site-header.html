@@ -1,0 +1,12 @@
+<header class="site-header">
+  {{ partial "site-navigation.html" . }}
+</header>
+{{ if .IsHome }}
+<section class="hero">
+  <p class="hero-kicker">{{ .Site.Title }}</p>
+  <h1>{{ .Title | default .Site.Title }}</h1>
+  {{ with .Params.description }}
+    <p class="hero-sub">{{ . }}</p>
+  {{ end }}
+</section>
+{{ end }}

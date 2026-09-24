@@ -1,7 +1,8 @@
 ---
 date: 2023-11-14T10:58:08-04:00
 featured_image: "/images/EDA.jpg"
-title: "Project 5: Exploratory data analysis"
+title: "Exploratory analysis of sociodemographic data"
+summary: "A reproducible exploration of National Statistics Institute data to identify data-quality issues, patterns and population segments."
 ---
 
 This is the project carried out for the Exploratory Data Analysis course in the Data Science master's program at the University of Valencia.

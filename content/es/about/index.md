@@ -1,6 +1,6 @@
 ---
 title: "Sobre mí"
-description: "¡Hola! Mi nombre es Nicolás Camañes y soy Científico de Datos."
+description: "Data Scientist con base en matemáticas, analítica y aprendizaje automático."
 featured_image: '/images/about_me.jpg'
 menu:
   main:
@@ -8,6 +8,8 @@ menu:
 ---
 {{< figure src="/images/Foto_Nicolas.jpg" width="300px">}}   
 
-Desde que concluí mis estudios básicos en el instituto, he encontrado mi verdadera pasión en las matemáticas. Fue este descubrimiento lo que me llevó a optar por cursar el grado en Matemática Computacional en la Universidad Jaime I. A lo largo de mi permanencia en la universidad, exploré diversas ramas y aplicaciones de las matemáticas a través de la participación en diversos proyectos y trabajos.
+Mi recorrido parte de las matemáticas. Estudié Matemática Computacional en la Universitat Jaume I, donde aprendí a abordar problemas complejos con rigor analítico y programación. Durante esa etapa exploré aplicaciones de análisis de datos, automatización y modelado.
 
-No obstante, no fue sino hasta la etapa en la que compaginé mi experiencia en prácticas en la empresa Mas Ingenieros con la elaboración de mi proyecto de fin de grado, cuando tuve el revelador encuentro con mi verdadera motivación profesional: la Ciencia de Datos. Fue en este momento que decidí enriquecer mis conocimientos y habilidades cursando el máster en Ciencia de Datos en la Universidad de Valencia. Este paso no solo consolidó mi interés en el campo, sino que también me proporcionó una base sólida para profundizar en el fascinante mundo de la analítica y la interpretación de datos.
+Las prácticas en Mas Ingenieros y el trabajo de fin de grado confirmaron mi interés por aplicar ese enfoque a problemas reales. Después cursé el Máster Universitario en Ciencia de Datos de la Universitat de València, consolidando conocimientos de estadística, machine learning, procesamiento de señales y sistemas de datos.
+
+Actualmente trabajo como Data Scientist. Me interesa especialmente llevar una idea desde la exploración inicial hasta una solución útil: definir bien el problema, cuidar la calidad de los datos, evaluar con criterio y explicar las conclusiones de forma accionable.

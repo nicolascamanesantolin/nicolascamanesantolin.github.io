@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Búsqueda Semántica on Nicolás Camañes</title>
+		<link>http://localhost:62344/es/tags/b%C3%BAsqueda-sem%C3%A1ntica/</link>
+		<description>Recent content in Búsqueda Semántica on Nicolás Camañes</description>
+		<generator>Hugo</generator>
+		<language>es</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 01 Sep 2024 10:00:00 +0200</lastBuildDate>
+		
+			<atom:link href="http://localhost:62344/es/tags/b%C3%BAsqueda-sem%C3%A1ntica/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Sistema de búsqueda inteligente con RAG para documentación MBA</title>
+				<link>http://localhost:62344/es/post/tfm-rag/</link>
+				<pubDate>Sun, 01 Sep 2024 10:00:00 +0200</pubDate>
+				<guid>http://localhost:62344/es/post/tfm-rag/</guid>
+				<description>Trabajo de Fin de Máster: un sistema RAG para localizar y sintetizar conocimiento en documentos de gestión empresarial.</description>
+			</item>
+	</channel>
+</rss>

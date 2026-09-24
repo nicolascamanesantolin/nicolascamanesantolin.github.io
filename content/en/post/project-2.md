@@ -3,7 +3,8 @@ date: 2022-12-19T10:58:08-04:00
 description: "MemWrist"
 featured_image: "/images/memwrist.jpg"
 tags: ["scene"]
-title: "Project 2: MemWrist"
+title: "MemWrist: a data-driven care product concept"
+summary: "A data-driven product concept designed to support people with Alzheimer's, their families and care professionals."
 ---
 
 This project was carried out as part of the Entrepreneurship course during my study period in the Computational Mathematics degree at Jaime I University. The main objective was to collaboratively develop a business plan with the rest of the team, centered around the idea of a product. Throughout the project, essential stages were undertaken, including product development, market analysis, competitor analysis, and the formulation of the business and financing model.

@@ -1,0 +1,15 @@
+<header class="site-header">
+  {{ partial "site-navigation.html" . }}
+</header>
+{{ if and (not .Params.omit_header_text) (not .IsHome) (not (eq .Type "page")) (not (eq .Kind "page")) }}
+  {{ if or (eq .Kind "section") (eq .Kind "taxonomy") (eq .Kind "term") }}
+    <section class="page-hero">
+      <h1>{{ .Title | default .Site.Title }}</h1>
+      {{ with .Content }}{{ else }}
+        {{ with .Params.description }}
+          <p>{{ . }}</p>
+        {{ end }}
+      {{ end }}
+    </section>
+  {{ end }}
+{{ end }}

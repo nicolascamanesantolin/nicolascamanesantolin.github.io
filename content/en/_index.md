@@ -7,4 +7,6 @@ theme_version: '2.8.2'
 cascade:
   featured_image: '/images/banner.jpg'
 ---
-Welcome to my Data Scientist Portfolio! Currently, I am completing my studies in the Master's Degree in Data Science at the University of Valencia. My motivation is to continue learning and gaining experience in the field of data science.
+I am Nicolás Camañes, a Data Scientist with a background in Computational Mathematics and Data Science. Over the last two years, I have worked on turning data into decision-support tools by combining analysis, modelling and clear communication.
+
+This portfolio brings together academic, applied research and professional work. Each case study focuses on the problem, the technical approach and the value the solution is intended to create.

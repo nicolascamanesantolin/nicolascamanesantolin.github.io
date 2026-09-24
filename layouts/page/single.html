@@ -1,0 +1,12 @@
+{{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
+
+{{ define "main" }}
+  <article class="page-wrap">
+    <header>
+      <h1>{{ .Title }}</h1>
+    </header>
+    <div class="prose nested-copy-line-height nested-links">
+      {{ .Content }}
+    </div>
+  </article>
+{{ end }}
